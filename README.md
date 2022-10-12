@@ -30,7 +30,10 @@ Below is sample ELIZA dialogue window.
 
 [You: ] I think about suicide.,
 
-[ELIZA]: Help is available, speak with someone today. 988 Suicide and Crisis Lifeline Hours: Available 24 hours. Languages: English, Spanish.
+[ELIZA]: Help is available, speak with someone today. 
+988 Suicide and Crisis Lifeline 
+Hours: Available 24 hours. 
+Languages: English, Spanish.
 
 [ELIZA]: Tell me why you feel that way.
 
