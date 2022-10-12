@@ -1,7 +1,10 @@
 # Digital Psychotherapist - Chatbot on Python from Scratch using Regex
 
 This program is a designed chatbot that will have a dialogue with the user based on the inputs it receives from the user. Similar to 
-Joseph Weizenbaum's Eliza, the purpose of this chatbot is to be able to act as a digital psychotherapist. Our program recognizes the specific 
+Joseph Weizenbaum's Eliza, the purpose of this chatbot is to be able to act as a digital psychotherapist. The goal of this project was to model 
+Weizenbaum's work from 1964 - it is a rather simplistic chatbot. 
+
+Our program recognizes the specific 
 keywords and based on the user's input, it analyzes the sentiment of the input and responds accordingly. We also designed a GUI for our program 
 for a better user experience (additional functionality of the program which still we are working on it to develop it more). Once you run the code, 
 the program initiates a dialogue by asking the user’s name and then the conversation continuous based on the user’s next input.
@@ -48,4 +51,5 @@ The algorithm takes a series of inputs from the user and returns an output in a 
 Extra Functionality:
 
 Tailoring responses depending on the sentiments of the user.
+
 Suicide prevention mechanism which is triggered from any mention of the word suicide.
